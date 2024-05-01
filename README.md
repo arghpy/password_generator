@@ -36,3 +36,4 @@ Generate passwords of length 8 that contain chars in range **a-z**:
 Generate passwords of length 5 that contain chars in range **a-z**, **A-Z**, **0-9**:
 `./generate_passwords -l 5 -c aA0`
 
+
