@@ -16,7 +16,7 @@ By using `gcc` or `clang`:
 
 ### Running
 
-```
+```shell
 ./a.out -l <> - c <>
 
 -l <args>       The length of the password to be generated
